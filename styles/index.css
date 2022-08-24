@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+    background-color: rgb(31, 0, 46);
+    color: white;
+}
+
+.bg-dark {
+    background-color: rgb(17, 12, 23) !important;
+}
+
+.rounded-lg {
+    border-radius: 15px !important;
+}
